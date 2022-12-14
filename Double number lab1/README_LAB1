@@ -1,0 +1,27 @@
+THIS IS THE README FILE FOR LAB 1.
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THE COURSE OR ONE OF OUR UNDERGRADUATEGRADERS.
+
+1. Quantez Merchant
+
+2. An open source system may not always be free because the person who creates an enhancement for it may want to make money off of it. 
+
+3. The value of i before initialization is 1.
+
+4. The value of i after initialization is 1.
+
+5. The touch command updates the timestamp on the file provided. The touch command changed the behavior of make because it updated include.h allowing make to run.
+
+6. The step command goes through each function line by line, unlike the next command that executes each function instantly.
+
+7. The finish command runs through a function call until it returns back to the main function.
+
+8. The value of i in the calling function is 1. 
+
+9. The tags file had all of the functions that are contained in all of the .c files.
+
+10. The .vs file only contained the functions in lab1, it had none of the code for those functions, or the comments. 
+
+11. zd.c line 24.
+
+12. The value of i was 10.
